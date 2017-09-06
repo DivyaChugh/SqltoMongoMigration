@@ -1,0 +1,16 @@
+E:\Projects\SQLToMongoDB\SQLToMongoDB\bin\Debug\SQLToMongoDB.exe.config
+E:\Projects\SQLToMongoDB\SQLToMongoDB\bin\Debug\SQLToMongoDB.exe
+E:\Projects\SQLToMongoDB\SQLToMongoDB\bin\Debug\SQLToMongoDB.pdb
+E:\Projects\SQLToMongoDB\SQLToMongoDB\bin\Debug\MongoDB.Bson.dll
+E:\Projects\SQLToMongoDB\SQLToMongoDB\bin\Debug\MongoDB.Driver.Core.dll
+E:\Projects\SQLToMongoDB\SQLToMongoDB\bin\Debug\MongoDB.Driver.dll
+E:\Projects\SQLToMongoDB\SQLToMongoDB\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Projects\SQLToMongoDB\SQLToMongoDB\bin\Debug\MongoDB.Bson.xml
+E:\Projects\SQLToMongoDB\SQLToMongoDB\bin\Debug\MongoDB.Driver.xml
+E:\Projects\SQLToMongoDB\SQLToMongoDB\bin\Debug\MongoDB.Driver.Core.xml
+E:\Projects\SQLToMongoDB\SQLToMongoDB\obj\Debug\SQLToMongoDB.Form1.resources
+E:\Projects\SQLToMongoDB\SQLToMongoDB\obj\Debug\SQLToMongoDB.csproj.GenerateResource.Cache
+E:\Projects\SQLToMongoDB\SQLToMongoDB\obj\Debug\SQLToMongoDB.exe
+E:\Projects\SQLToMongoDB\SQLToMongoDB\obj\Debug\SQLToMongoDB.pdb
+E:\Projects\SQLToMongoDB\SQLToMongoDB\obj\Debug\SQLToMongoDB.csprojResolveAssemblyReference.cache
+E:\Projects\SQLToMongoDB\SQLToMongoDB\obj\Debug\SQLToMongoDB.csproj.CoreCompileInputs.cache
